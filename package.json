@@ -1,0 +1,26 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3m1l1o/sass-y-gulp.git"
+  },
+  "keywords": [
+    "Sass",
+    "Gulp"
+  ],
+  "author": "Emilio Gallo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3m1l1o/sass-y-gulp/issues"
+  },
+  "homepage": "https://github.com/3m1l1o/sass-y-gulp#readme",
+  "devDependencies": {
+    "sass": "^1.42.1"
+  }
+}
